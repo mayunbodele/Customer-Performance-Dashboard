@@ -1,4 +1,9 @@
 # Customer-Performance-Dashboard
+![Dashboard Overview](link_to_screenshot)
+![Dashboard Overview](link_to_screenshot)
+![Dashboard Overview](link_to_screenshot)
+
+
 
 Overview:
 This project analyzes customer performance data using Power BI. The dashboard provides insights into key customer demographics, purchasing behavior, and revenue segmentation. The goal is to help businesses understand customer trends and optimize engagement and sales strategies.
