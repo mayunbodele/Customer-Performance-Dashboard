@@ -1,7 +1,7 @@
 # Customer-Performance-Dashboard
 ![Dashboard Overview](https://github.com/mayunbodele/Customer-Performance-Dashboard/blob/main/Customer%20Performance%20Dashboard.png)
 ![Dashboard Overview](https://github.com/mayunbodele/Customer-Performance-Dashboard/blob/main/CPD%20US.png)
-![Dashboard Overview](link_to_screenshot)
+![Dashboard Overview](https://github.com/mayunbodele/Customer-Performance-Dashboard/blob/main/CPD%20Australia.png)
 
 
 
